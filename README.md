@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Indira! 👋
 
-<!--
-**Indira-123/Indira-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about **AI** and **Machine Learning**. Currently, I'm exploring **NLP**, **LLMs**, and the **Speech-Text** domain. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools I Use:
+- 🐍 Python
+- 🌐 Flask
+- 🔢 NumPy
+- 🧮 Pandas
+- 🗄️ MySQL
+- 📊 scikit-learn
+- 🤖 TensorFlow
+- 🔥 PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indira-123&show_icons=true&hide_title=true)
+
+## 📣 Wanna connect?
+- 🔗 [LinkedIn: Indira's LinkedIn](https://www.linkedin.com/in/indirasharma13/) 🌐
+
+---
+
+**"The best time to start was yesterday. The second best time is now."** ⏳
